@@ -1,5 +1,5 @@
 {
-  "name": "escapeboy/nra-audit-generator",
+  "name": "didntread/nra-audit-generator",
   "description": "NRA Orders Audit XML File Generator",
   "type": "library",
   "license": "MIT",
@@ -7,6 +7,11 @@
     {
       "name": "Nikola Katsarov",
       "email": "katsarov@gmail.com"
+    },
+    {
+    
+      "name": "Kaloyan Petkov",
+      "email": "kaloyanpetkov@protonmail.com"
     }
   ],
   "require": {
